@@ -63,8 +63,10 @@ Before the end of the challenge you will have to:
   - Only your last submission will be retained
 - Submit your result for the final challenge to the validation API
   - Only your last submission will be retained
-- Submit your code for the evaluation part of the quality and creativity of your solution.
-  - To do this, you will need to create a public Git repo and send us the link so that we can access your code.
+- Submit your code for the evaluation part of the quality and creativity of your solution
+  - To do this, you will need to create a public Git repo and send us the link so that we can access your code
+  - Include your code and a detailed README on how to run it
+  - Include the 2 JSON files (test and final) for the best results you got
 
 ## Evaluation criteria
 Here are the different evaluation criteria:
