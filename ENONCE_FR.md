@@ -2,7 +2,7 @@
 
 ## Contexte
 Les fondateurs d'Atlantis ont besoin de lever du capital pour financer la construction de leur ville sous-marine. 
-Pour ce faire, ils décident d'investir $1000000 dans le marché boursier.
+Pour ce faire, ils décident d'investir 1 000 000$ dans le marché boursier.
 De plus, ils ont la chance d'avoir en leur possession un oracle qui leur permet de voir le prix des actions des entreprises jusqu'à un mois dans le futur! 
 
 ## Description
@@ -46,7 +46,7 @@ Quelques idées:
 Les moyens à utiliser pour obtenir les prix des titres dans le passé (ou toute autre information que vous jugez pertinente) sont à votre discrétion. L’API Yahoo! Finance est une bonne place pour commencer, et ce sera la source de prix officielle qui sera utilisée pour calculer les profits de chaque équipe à la fin du challenge.
 
 ## Déroulement
-Le premier 2h30 minutes du challenge se fera en mode test. Ensuite, 30 minutes avant la fin du challenge, les paramètres de la simulation finale vous seront communiqués.
+Le premier 2h30 du challenge se fera en mode test. Ensuite, 30 minutes avant la fin du challenge, les paramètres de la simulation finale vous seront communiqués.
 
 ### Simulation de test
 Paramètres de la simulation de test: [TEST_SIM.md](./TEST_SIM.md)
@@ -66,7 +66,7 @@ Avant la fin du challenge vous devrez:
 - Soumettre votre code pour la partie évaluation de la qualité et de la créativité de votre solution
   - Pour ce faire, vous devrez vous créer un repo Git public et nous faire parvenir le lien afin que nous puissions accéder votre code
   - Inclure votre code et un README détaillé sur comment l'éxécuter
-  - Inclure les 2 fichiers JSON (test et final) pour les meilleurs résultats que vous avez obtenu
+  - Inclure les 2 fichiers JSON (test.json et final.json) pour les meilleurs résultats que vous avez obtenu
 
 ## Critères d’évaluation
 Voici les différents critères d'évaluation:
@@ -76,3 +76,15 @@ Voici les différents critères d'évaluation:
 - Temps d'exécution de l'algorithme:    max.  100pts
 - Score maximum possible:                    1400pts
 
+## Communication
+Durant le déroulement de la compétition les réprésentants de Croesus seront disponibles pour répondre à vos questions. De plus, un espace Slack a été créé pour faciliter les échanges (informations, questions, fichiers, etc). 
+
+### Rejoindre le Slack
+* Afin de mieux vous reconnaître, utilisez le nommage suivant:
+  * {Nom de votre équipe} - {Prénom}
+
+* Pour rejoindre le Slack suivre ce [lien](https://join.slack.com/t/csgames-croesus/shared_invite/zt-1r1kckfo4-D70Y3lJgArNnve0wxGrmFQ) 
+* Trois channels seront disponibles:
+  * __#général :__ Channel pour partager des informations d'ordre général
+  * __#live-results :__  Channel utilisé par notre bot pour partager en temps réel le profit réalisé par les transactions soumises à l'API - _SVP ne pas écrire dans ce channel_
+  * __#aléatoire:__ Channel décontracté pour jaser de tout et de rien
