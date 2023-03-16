@@ -46,7 +46,7 @@ Some ideas:
 The means to be used to obtain past security prices (or any other information you deem relevant) are at your discretion. The Yahoo! Finance is a good place to start, and it will be the official prize source that will be used to calculate each team's profit at the end of the challenge.
 
 ## Procedure
-The first 2h30 minutes of the challenge will be in test mode. Then, 30 minutes before the end of the challenge, the parameters of the final simulation will be communicated to you.
+The first 2:30 of the challenge will be in test mode. Then, 30 minutes before the end of the challenge, the parameters of the final simulation will be communicated to you.
 
 ### Test Simulation
 Test simulation settings: [TEST_SIM.md](./TEST_SIM.md)
@@ -66,7 +66,7 @@ Before the end of the challenge you will have to:
 - Submit your code for the evaluation part of the quality and creativity of your solution
   - To do this, you will need to create a public Git repo and send us the link so that we can access your code
   - Include your code and a detailed README on how to run it
-  - Include the 2 JSON files (test and final) for the best results you got
+  - Include the 2 JSON files (test.json and final.json) for the best results you got
 
 ## Evaluation criteria
 Here are the different evaluation criteria:
@@ -75,3 +75,17 @@ Here are the different evaluation criteria:
 - Quality and creativity of the solution: max. 200pts
 - Algorithm execution time: max. 100pts
 - Maximum possible score: 1400pts
+
+## Communication
+During the challenge, Croesus representatives will be available on place for questions. A Slack space has also been created to share (information, files, questions, etc.) and ease communication.
+
+
+### Join our Slack
+* In order to easily identify each person, please use the following naming convention:
+  * {Team name} - {First Name}
+
+* To join our Slack use this [link](https://join.slack.com/t/csgames-croesus/shared_invite/zt-1r1kckfo4-D70Y3lJgArNnve0wxGrmFQ) 
+* There are three available channels:
+  * __#general :__ Channel for sharing general information
+  * __#live-results :__  Channel that will be used by our bot for displaying the results of transactions received by the API. _Please don't write anything in this channel_
+  * __#random:__ Channel for random stuff
