@@ -29,7 +29,7 @@ Votre programme devra produire une liste de transactions en JSON que vous devrez
 ### Règles
 Les règles du challenge sont les suivantes:
 - Vous pouvez exécuter au maximum une transaction par jour ;
-- Vous ne pouvez détenir qu'un seul titre à la fois:
+- Vous ne pouvez détenir qu'un seul titre à la fois ("all in"):
   - Donc en tout temps, tout l'argent doit être en votre possession en comptant ou investi dans un des titres permis pour la simulation en cours ;
 - La quantité d'actions détenue n'est pas limitée à être une valeur entière:
   - Par exemple, si le prix de l'action GM est de $39.31, vous pouvez en acheter une quantité de 25438.8196388 ;
