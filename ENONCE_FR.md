@@ -10,6 +10,8 @@ Votre challenge est d’écrire un programme qui va proposer des transactions bo
 
 Vous serez évalué sur le montant de profit total généré par votre séquence de transactions, ainsi que par la structure, le style et la créativité de votre code, que vous devrez soumettre à la fin du challenge.
 
+Vous pouvez utiliser le langage de programmartion de votre choix pour faire ce challenge. 
+
 ### Input
 Les intrants à votre programme seront les paramètres d’une simulation boursière:
 - Une liste de symboles boursiers à laquelle votre investissement devra se limiter:
@@ -70,11 +72,10 @@ Avant la fin du challenge vous devrez:
 
 ## Critères d’évaluation
 Voici les différents critères d'évaluation:
-- Profit pour la simulation de test:    max.  400pts
-- Profit pour la simulation finale:     max.  700pts
-- Qualité et créativité de la solution:	max.  200pts
-- Temps d'exécution de l'algorithme:    max.  100pts
-- Score maximum possible:                    1400pts
+- Profit pour la simulation de test:                max.  400pts
+- Profit pour la simulation finale:                 max.  700pts
+- Efficacité, qualité et créativité de la solution:	max.  300pts
+- Score maximum possible:                                1400pts
 
 ## Communication
 Durant le déroulement de la compétition les réprésentants de Croesus seront disponibles pour répondre à vos questions. De plus, un espace Slack a été créé pour faciliter les échanges (informations, questions, fichiers, etc). 
