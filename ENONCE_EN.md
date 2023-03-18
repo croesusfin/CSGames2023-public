@@ -42,7 +42,7 @@ Some ideas:
 - You can use an arbitrary strategy:
   - On the first day, start by buying a stock at random
   - For each day, arbitrarily decide to keep it or exchange it for another
-  - On the last day, sell the security held
+  - On the last day, sell the stock held
 - Try to see “in the future” (always within the start and end dates) if the price of a security increases or decreases in order to decide whether to buy or sell it
 
 The means to be used to obtain past security prices (or any other information you deem relevant) are at your discretion. The Yahoo! Finance is a good place to start, and it will be the official prize source that will be used to calculate each team's profit at the end of the challenge.
