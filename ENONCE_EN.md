@@ -29,7 +29,7 @@ Your program will need to produce a list of transactions in JSON that you will n
 ### Rules
 The rules of the challenge are as follows:
 - You can execute a maximum of one transaction per day;
-- You can only hold one title at a time:
+- You can only hold one title at a time ("all in"):
   - So at all times, all the money must be in your possession in cash or invested in one of the securities permitted for the current simulation;
 - The quantity of shares held is not limited to being a whole value:
   - For example, if the price of GM stock is $39.31, you can buy a quantity of 25438.8196388;
