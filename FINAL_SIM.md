@@ -1,4 +1,4 @@
-- Allowed ticker symbols: GOOG, AMZN, META, MSFT, AAPL
-- Start date: 2023-01-01
-- End date: 2023-02-01
-- FinalValidationMode: croesus-of-lydia
+- Allowed ticker symbols: TBD, file will be updated with the info Thursday at 15:30!
+- Start date: 2023-05-01
+- End date: 2023-06-01
+- FinalValidationMode: TBD, file will be updated with the info Thursday at 15:30!
