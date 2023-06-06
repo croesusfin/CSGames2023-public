@@ -1,4 +1,4 @@
-- Allowed ticker symbols: TBD, file will be updated with the info Thursday at 15:30!
+- Allowed ticker symbols: TBD, file will be updated with the info Thursday at 15:00!
 - Start date: 2023-05-01
 - End date: 2023-06-01
-- FinalValidationMode: TBD, file will be updated with the info Thursday at 15:30!
+- FinalValidationMode: TBD, file will be updated with the info Thursday at 15:00!
