@@ -67,10 +67,6 @@ Avant la fin du challenge vous devrez:
   - Seule votre dernière soumission sera retenue
 - Soumettre votre résultat pour le challenge final à l‘API de validation
   - Seule votre dernière soumission sera retenue
-- Soumettre votre code pour la partie évaluation de la qualité et de la créativité de votre solution
-  - Pour ce faire, vous devrez vous créer un repo Git public et nous faire parvenir le lien afin que nous puissions accéder votre code
-  - Inclure votre code et un README détaillé sur comment l'éxécuter
-  - Inclure les 2 fichiers JSON (test.json et final.json) pour les meilleurs résultats que vous avez obtenu
 
 ## Communication
 Durant le déroulement de la compétition les réprésentants de Croesus seront disponibles pour répondre à vos questions en salle ou via le salon "Hackathon - Atlantide en Action".
