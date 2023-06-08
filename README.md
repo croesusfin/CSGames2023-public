@@ -8,9 +8,7 @@ De plus, ils ont la chance d'avoir en leur possession un oracle qui leur permet 
 ## Description
 Votre challenge est d’écrire un programme qui va proposer des transactions boursières à faire sur une période de temps prédéterminée afin de maximiser le profit sur un investissement initial. La période de temps proposée est entièrement dans le passé.
 
-Vous serez évalué sur le montant de profit total généré par votre séquence de transactions, ainsi que par la structure, le style et la créativité de votre code, que vous devrez soumettre à la fin du challenge.
-
-Vous pouvez utiliser le langage de programmartion de votre choix pour faire ce challenge. 
+Vous serez évalué sur le montant de profit total généré par votre séquence de transactions.
 
 ### Input
 Les intrants à votre programme seront les paramètres d’une simulation boursière:
