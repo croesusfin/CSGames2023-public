@@ -70,6 +70,7 @@ Avant la fin du challenge vous devrez:
 
 ## Communication
 Durant le déroulement de la compétition les réprésentants de Croesus seront disponibles pour répondre à vos questions en salle ou via le salon "Hackathon - Atlantide en Action".
+
 De plus, le salon Google Meet "Hackathon - Atlantide en Action - Live Profits" a été créé pour afficher en direct le résultats des participants!
 
 ### Rejoindre les Google Meet
