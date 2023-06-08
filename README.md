@@ -47,7 +47,7 @@ Quelques idées:
 
 Les moyens à utiliser pour obtenir les prix des titres dans le passé (ou toute autre information que vous jugez pertinente) sont à votre discrétion. L’API Yahoo! Finance est une bonne place pour commencer, et ce sera la source de prix officielle qui sera utilisée pour calculer les profits de chaque équipe à la fin du challenge.
 
-**Note: Il est interdit de consulter une BD client Croesus client pour obtenir les prix**
+**Note: Il est interdit de consulter une base de données client pour obtenir les prix des titres**
 
 ## Déroulement
 Le premier 2h30 du challenge se fera en mode test. Ensuite, 30 minutes avant la fin du challenge, les paramètres de la simulation finale vous seront communiqués.
@@ -71,13 +71,6 @@ Avant la fin du challenge vous devrez:
   - Pour ce faire, vous devrez vous créer un repo Git public et nous faire parvenir le lien afin que nous puissions accéder votre code
   - Inclure votre code et un README détaillé sur comment l'éxécuter
   - Inclure les 2 fichiers JSON (test.json et final.json) pour les meilleurs résultats que vous avez obtenu
-
-## Critères d’évaluation
-Voici les différents critères d'évaluation:
-- Profit pour la simulation de test:                max.  400pts
-- Profit pour la simulation finale:                 max.  700pts
-- Efficacité, qualité et créativité de la solution:	max.  300pts
-- Score maximum possible:                                1400pts
 
 ## Communication
 Durant le déroulement de la compétition les réprésentants de Croesus seront disponibles pour répondre à vos questions en salle ou via le salon "Hackathon - Atlantide en Action".
