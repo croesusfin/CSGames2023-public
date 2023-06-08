@@ -47,7 +47,7 @@ Quelques idées:
 
 Les moyens à utiliser pour obtenir les prix des titres dans le passé (ou toute autre information que vous jugez pertinente) sont à votre discrétion. L’API Yahoo! Finance est une bonne place pour commencer, et ce sera la source de prix officielle qui sera utilisée pour calculer les profits de chaque équipe à la fin du challenge.
 
-**Note: Il est interdit de consulter une base de données client pour obtenir les prix des titres**
+**Note: Il est interdit de consulter une base de données client pour obtenir les prix des titres.**
 
 ## Déroulement
 Le premier 2h30 du challenge se fera en mode test. Ensuite, 30 minutes avant la fin du challenge, les paramètres de la simulation finale vous seront communiqués.
