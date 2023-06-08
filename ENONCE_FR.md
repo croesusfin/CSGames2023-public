@@ -47,6 +47,8 @@ Quelques idées:
 
 Les moyens à utiliser pour obtenir les prix des titres dans le passé (ou toute autre information que vous jugez pertinente) sont à votre discrétion. L’API Yahoo! Finance est une bonne place pour commencer, et ce sera la source de prix officielle qui sera utilisée pour calculer les profits de chaque équipe à la fin du challenge.
 
+**Note: Il est interdit de consulter une BD client Croesus client pour obtenir les prix**
+
 ## Déroulement
 Le premier 2h30 du challenge se fera en mode test. Ensuite, 30 minutes avant la fin du challenge, les paramètres de la simulation finale vous seront communiqués.
 
@@ -78,14 +80,9 @@ Voici les différents critères d'évaluation:
 - Score maximum possible:                                1400pts
 
 ## Communication
-Durant le déroulement de la compétition les réprésentants de Croesus seront disponibles pour répondre à vos questions. De plus, un espace Slack a été créé pour faciliter les échanges (informations, questions, fichiers, etc). 
+Durant le déroulement de la compétition les réprésentants de Croesus seront disponibles pour répondre à vos questions en salle ou via le salon "Hackathon - Atlantide en Action".
+De plus, le salon Google Meet "Hackathon - Atlantide en Action - Live Profits" a été créé pour afficher en direct le résultats des participants!
 
-### Rejoindre le Slack
-* Afin de mieux vous reconnaître, utilisez le nommage suivant:
-  * {Nom de votre équipe} - {Prénom}
-
-* Pour rejoindre le Slack suivre ce [lien](https://join.slack.com/t/csgames-croesus/shared_invite/zt-1r1kckfo4-D70Y3lJgArNnve0wxGrmFQ) 
-* Trois channels seront disponibles:
-  * __#général :__ Channel pour partager des informations d'ordre général
-  * __#live-results :__  Channel utilisé par notre bot pour partager en temps réel le profit réalisé par les transactions soumises à l'API - _SVP ne pas écrire dans ce channel_
-  * __#aléatoire:__ Channel décontracté pour jaser de tout et de rien
+### Rejoindre les Google Meet
+* Général: https://chat.google.com/room/AAAAhG-jqeY?cls=7
+* Live Results: https://chat.google.com/room/AAAAV7TSLFc?cls=7
